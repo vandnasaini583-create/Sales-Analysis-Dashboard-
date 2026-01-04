@@ -39,11 +39,7 @@ Sales-Analysis-Dashboard/
 ├── DASHBOARD               # Interactive dashboards
 ├── Sheet1                  # Supporting calculations
 └── README.md               # Project documentation
-```
 
----
-## 📷 Dashboard Screenshot
-![Sales Dashboard](dashboard.png)
 
 
 ## Dashboard Features
