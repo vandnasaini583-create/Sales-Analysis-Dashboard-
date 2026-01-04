@@ -42,6 +42,9 @@ Sales-Analysis-Dashboard/
 ```
 
 ---
+## 📷 Dashboard Screenshot
+![Sales Dashboard](dashboard.png)
+
 
 ## Dashboard Features
 
